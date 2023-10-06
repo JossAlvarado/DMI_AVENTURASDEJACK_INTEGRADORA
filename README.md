@@ -4,7 +4,7 @@
 
 <div align="Justify">
   
-## Universidad Tecnológica de Xicotepec de Juárez
+# Universidad Tecnológica de Xicotepec de Juárez
 ## Ingeniería en Desarrollo y Gestión de Software
 
 &nbsp;
@@ -12,8 +12,13 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre | Proyecto Integradora |
-| APP  | Aventures|
-|  Fecha de Carga | 15/09/23  |
+| APP  | Aventures Jack|
+|  Integrantes | Josseline Alvarado Vargas
+Lesly Yareth Bonilla Hernandez
+Jose Luis Galindo Picazo
+ |
+
+#
 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/8f93f668-cf12-42f5-9244-5f264ba160f5)
 
