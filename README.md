@@ -13,10 +13,7 @@
 | :------------: | :------------: |
 | Nombre | Proyecto Integradora |
 | APP  | Aventures Jack|
-|  Integrantes | Josseline Alvarado Vargas
-Lesly Yareth Bonilla Hernandez
-Jose Luis Galindo Picazo
- |
+|  Integrantes | Josseline Alvarado Vargas, Lesly Yareth Bonilla Hernandez, Jose Luis Galindo Picazo|
 
 #
 
