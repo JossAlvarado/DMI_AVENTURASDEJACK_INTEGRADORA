@@ -16,7 +16,7 @@
 |  Integrantes | 
 Josseline Alvarado Vargas, Lesly Yareth Bonilla Hernandez, Jose Luis Galindo Picazo|
 
-#GENERO
+## GENERO
 Este videojuego está clasificado en el grupo "a", es apto para todo el público en general, la cantidad de violencia es casi nula y poco perceptible, lenguaje moderado. el lenguaje es moderado y sólo se recurre a algunas frases de gritos cuando están justificadas por la trama del videojuego y es parte del personaje para menores. el videojuego es de tipo aventura y exploración, con gráficas 2d. 
 
 #
