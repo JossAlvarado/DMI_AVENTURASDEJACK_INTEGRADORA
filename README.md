@@ -1,5 +1,10 @@
 # DMI_AVENTURASDEJACK_INTEGRADORA
-Trabajo integrador del equipo TECNO GAMES
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
+
+
+<div align="Justify">
+# Universidad Tecnológica de Xicotepec de Juárez
+## Ingeniería en Desarrollo y Gestión de Software
 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/8f93f668-cf12-42f5-9244-5f264ba160f5)
 
