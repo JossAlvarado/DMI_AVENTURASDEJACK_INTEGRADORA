@@ -16,6 +16,8 @@
 |  Integrantes | 
 Josseline Alvarado Vargas, Lesly Yareth Bonilla Hernandez, Jose Luis Galindo Picazo|
 
+[![Captura-de-pantalla-2023-10-06-124318.png](https://i.postimg.cc/J7vG7F3V/Captura-de-pantalla-2023-10-06-124318.png)](https://postimg.cc/z3wJ00P0)
+
 ## GENERO
 Este videojuego está clasificado en el grupo "a", es apto para todo el público en general, la cantidad de violencia es casi nula y poco perceptible, lenguaje moderado. el lenguaje es moderado y sólo se recurre a algunas frases de gritos cuando están justificadas por la trama del videojuego y es parte del personaje para menores. el videojuego es de tipo aventura y exploración, con gráficas 2d. 
 
@@ -43,10 +45,13 @@ Una intensa batalla comienza entre ambos aventureros mientras luchan por obtener
 [![Captura-de-pantalla-2023-10-06-123640.png](https://i.postimg.cc/CxFYwC2p/Captura-de-pantalla-2023-10-06-123640.png)](https://postimg.cc/jLkBXfKM)
 
 ## SONIDOS 
+
 •	Sepientes 
 •	Arañas 
 •	Cocodrilo 
 •	Musica De Fondo De Aventura
+
+&nbsp;
 
 [![Captura-de-pantalla-2023-10-06-123804.png](https://i.postimg.cc/zGfMdxMv/Captura-de-pantalla-2023-10-06-123804.png)](https://postimg.cc/svtwx43C)
 
