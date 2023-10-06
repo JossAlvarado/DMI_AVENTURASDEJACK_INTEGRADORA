@@ -11,8 +11,8 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Aplicación 6* aplicacion flutter uso de botones* |
-| Descripción  |creacion de una aplicacion de flutter con cards|
+| Nombre | Proyecto Integradora |
+| APP  | Aventures|
 |  Fecha de Carga | 15/09/23  |
 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/8f93f668-cf12-42f5-9244-5f264ba160f5)
