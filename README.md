@@ -40,6 +40,18 @@ Una intensa batalla comienza entre ambos aventureros mientras luchan por obtener
 
 [![Captura-de-pantalla-2023-10-06-123441.png](https://i.postimg.cc/gcQP6FBs/Captura-de-pantalla-2023-10-06-123441.png)](https://postimg.cc/5jBrZGJQ)
 
+[![Captura-de-pantalla-2023-10-06-123640.png](https://i.postimg.cc/CxFYwC2p/Captura-de-pantalla-2023-10-06-123640.png)](https://postimg.cc/jLkBXfKM)
+
+## SONIDOS 
+•	Sepientes 
+•	Arañas 
+•	Cocodrilo 
+•	Musica De Fondo De Aventura
+
+[![Captura-de-pantalla-2023-10-06-123804.png](https://i.postimg.cc/zGfMdxMv/Captura-de-pantalla-2023-10-06-123804.png)](https://postimg.cc/svtwx43C)
+
+[![Captura-de-pantalla-2023-10-06-123833.png](https://i.postimg.cc/Y2fstcBj/Captura-de-pantalla-2023-10-06-123833.png)](https://postimg.cc/Wtzn7H3P)
+
 #
 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/8f93f668-cf12-42f5-9244-5f264ba160f5)
