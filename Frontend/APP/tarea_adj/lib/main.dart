@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 
 void main() => runApp(MyApp());
 
@@ -20,9 +19,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
 
-    // Simula una espera de 5 segundos
-    Future.delayed(Duration(seconds: 5), () {
-      // Navegar a la siguiente pantalla
+    Future.delayed(Duration(seconds: 25), () {
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => NextScreen()),
@@ -43,51 +40,48 @@ class InitialScreen extends StatefulWidget {
 
 class _InitialScreenState extends State<InitialScreen> {
   double _progressValue = 0.0;
-  double _progressIncrement = 0.02; // Ajusta la velocidad del progreso
+  double _progressIncrement = 0.20;
 
   @override
   void initState() {
     super.initState();
 
-    // Actualiza el progreso cada 100 milisegundos
-    Timer.periodic(Duration(milliseconds: 100), (timer) {
+    _updateProgress();
+  }
+
+  void _updateProgress() async {
+    for (int i = 0; i < 5; i++) {
+      await Future.delayed(Duration(seconds: 5));
       setState(() {
-        if (_progressValue < 1.0) {
-          _progressValue += _progressIncrement; // Incrementa el progreso
+        if (_progressValue + _progressIncrement <= 1.0) {
+          _progressValue += _progressIncrement;
         }
       });
-    });
+    }
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // Elimina la AppBar
-      // appBar: AppBar(
-      //   title: Text('Pantalla inicial'),
-      // ),
       body: Container(
-        color: Color.fromRGBO(255, 255, 255, 1), // Color de fondo
+        color: Color.fromRGBO(255, 255, 255, 1),
         padding: EdgeInsets.all(20.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('assets/logoempresa.png', height: 200.0), // La imagen
+            Image.asset('assets/logoempresa.png', height: 200.0),
             SizedBox(height: 20.0),
-            // LinearProgressIndicator con color transparente
             LinearProgressIndicator(
-              backgroundColor: Colors.transparent, // Color de fondo de la barra
-              valueColor: AlwaysStoppedAnimation<Color>(
-                  Color.fromARGB(255, 0, 0, 0)), // Color de la barra
+              backgroundColor: Colors.transparent,
+              valueColor:
+                  AlwaysStoppedAnimation<Color>(Color.fromARGB(255, 0, 0, 0)),
               value: _progressValue,
-              minHeight:
-                  30.0, // Altura mínima de la barra de progreso (controla el grosor)
+              minHeight: 30.0,
             ),
             SizedBox(height: 20.0),
             Text(
               'Iniciando...',
-              style: TextStyle(
-                  color: Color.fromARGB(255, 20, 20, 20)), // Color del texto
+              style: TextStyle(color: Color.fromARGB(255, 20, 20, 20)),
             ),
           ],
         ),
@@ -101,22 +95,20 @@ class NextScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Pantalla siguiente'),
-        backgroundColor: Color.fromARGB(
-            255, 255, 255, 255), // Color del AppBar en hexadecimal
+        title: Text('Siguiente'),
+        backgroundColor: Color.fromARGB(255, 255, 255, 255),
       ),
       body: Align(
         alignment: Alignment.topCenter,
         child: Padding(
-          padding:
-              const EdgeInsets.only(top: 16.0), // Ajusta el espaciado superior
+          padding: const EdgeInsets.only(top: 16.0),
           child: Column(
             children: <Widget>[
               Text(
                 'Aventuras de JACK!',
                 style: TextStyle(
-                  fontSize: 26.0, // Tamaño de fuente
-                  fontWeight: FontWeight.bold, // Texto en negrita
+                  fontSize: 26.0,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
             ],
