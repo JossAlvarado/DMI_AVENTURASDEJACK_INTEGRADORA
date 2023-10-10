@@ -78,14 +78,14 @@ class _InitialScreenState extends State<InitialScreen> {
             LinearProgressIndicator(
               backgroundColor: Colors.transparent, // Color de fondo de la barra
               valueColor: AlwaysStoppedAnimation<Color>(
-                  Color.fromARGB(255, 255, 255, 255)), // Color de la barra
+                  Color.fromARGB(255, 0, 0, 0)), // Color de la barra
               value: _progressValue,
               minHeight:
                   30.0, // Altura mínima de la barra de progreso (controla el grosor)
             ),
             SizedBox(height: 20.0),
             Text(
-              'Cargando...',
+              'Iniciando...',
               style: TextStyle(
                   color: Color.fromARGB(255, 20, 20, 20)), // Color del texto
             ),
