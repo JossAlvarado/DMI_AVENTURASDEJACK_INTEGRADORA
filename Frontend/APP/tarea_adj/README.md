@@ -22,6 +22,9 @@ Esta es una aplicacion creada en flutter doctor que nos ayuda a visualizar una e
 El propósito principal es brindar una experiencia visual agradable al usuario durante la carga de la aplicación y también puede utilizarse para mostrar el logotipo, nombre o marca de la aplicación.
 El uso de un SplashScreen puede mejorar la percepción de nuestros usuarios sobre la velocidad de carga de la aplicación y proporcionar una experiencia más atractiva durante el inicio de la aplicación.
 
+Aplicación simple en Flutter que muestra una pantalla de carga con una barra de progreso que se actualiza cada 5 segundos, avanzando un 20% en cada actualización. La pantalla de carga espera 25 segundos en total antes de navegar a la siguiente pantalla.
+Contiene un SplashScreen: Es un widget de estado que representa la pantalla de inicio. Espera durante 25 segundos y luego pasa a la pantalla siguiente.
+
 ## Ejemplo de TECNO GAMES 
 
 Carga de pantalla de la aplicación
@@ -43,6 +46,7 @@ Carga al 60% de la Aplicación
 Carga al 80% de la Aplicación
 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/a68964bc-269e-41e8-bbf3-d9329d72cc5d)
+
 
 Carga al 100% de la Aplicación
 
