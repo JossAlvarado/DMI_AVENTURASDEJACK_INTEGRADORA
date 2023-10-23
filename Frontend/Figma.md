@@ -4,6 +4,6 @@
 
 # DISEÑOS A COLOR
 
-[Figma] (https://www.figma.com/file/qS9s58WC0qDXHClczka6co/Untitled?node-id=0%3A1&mode=dev) 
+[Figma](https://www.figma.com/file/qS9s58WC0qDXHClczka6co/Untitled?node-id=0%3A1&mode=dev) 
 
 
