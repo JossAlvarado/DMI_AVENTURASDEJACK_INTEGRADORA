@@ -22,10 +22,10 @@ Modelo reverso de la base de datos
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/ee72c205-530f-4444-a659-03d623bca5f9)
 
 La implementación de rutas para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en una aplicación es una parte esencial de muchos sistemas informáticos, especialmente en entornos weB. En esta captura se muestra las rutas creadas, las cuales Define rutas específicas para cada operación CRUD. Esta se asocia a cada operación CRUD con un método HTTP específico:
- ## POST para la creación.
- ## GET para la lectura.
- ## PUT o PATCH para la actualización.
- ## DELETE para la eliminación.
+ * POST para la creación.
+ * GET para la lectura.
+ * PUT o PATCH para la actualización.
+ * DELETE para la eliminación.
 
 
 ## Capturas de Pantalla de la Actividad
