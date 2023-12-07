@@ -4,8 +4,7 @@
 
 <div align="Justify">
   
-# Universidad Tecnológica de Xicotepec de Juárez
-## Ingeniería en Desarrollo y Gestión de Software
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/0a503e92-aa9e-405a-a581-51c55879beeb)
 
 &nbsp;
 &nbsp;
