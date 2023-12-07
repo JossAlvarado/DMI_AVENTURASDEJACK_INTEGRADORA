@@ -47,8 +47,11 @@ Una intensa batalla comienza entre ambos aventureros mientras luchan por obtener
 ## SONIDOS 
 
 •	Sepientes 
+
 •	Arañas 
+
 •	Cocodrilo 
+
 •	Musica De Fondo De Aventura
 
 &nbsp;
@@ -56,7 +59,4 @@ Una intensa batalla comienza entre ambos aventureros mientras luchan por obtener
 [![Captura-de-pantalla-2023-10-06-123804.png](https://i.postimg.cc/zGfMdxMv/Captura-de-pantalla-2023-10-06-123804.png)](https://postimg.cc/svtwx43C)
 
 [![Captura-de-pantalla-2023-10-06-123833.png](https://i.postimg.cc/Y2fstcBj/Captura-de-pantalla-2023-10-06-123833.png)](https://postimg.cc/Wtzn7H3P)
-
-#
-
 
