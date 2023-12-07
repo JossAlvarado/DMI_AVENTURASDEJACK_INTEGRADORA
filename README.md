@@ -15,7 +15,7 @@
 
 | EMPRESA/ORGANIZACIÓN | UTXJ |
 |----------------------|------|
-|Proyecto           |BOOKFAHS|
+|Proyecto           |TECNO GAMES|
 |Fecha de preparación  ||
 |Cliente               |M.T.I MARCO A. R. H|
 |Patrocinador principal | Area TI |
@@ -31,8 +31,10 @@
 |Lesly Yaret Hernandez Bonilla| Frontend | TECNO GAMES |  |             |
 |Josseline Alvarado Vargas| Backend | TECNO GAMES |  |             |
 
+# LOGOS
 
-[![Captura-de-pantalla-2023-10-06-124318.png](https://i.postimg.cc/J7vG7F3V/Captura-de-pantalla-2023-10-06-124318.png)](https://postimg.cc/z3wJ00P0)
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/66f51ec8-91f6-4c4d-98e4-14f53b710ca9)
+
 
 ## GENERO
 Este videojuego está clasificado en el grupo "a", es apto para todo el público en general, la cantidad de violencia es casi nula y poco perceptible, lenguaje moderado. el lenguaje es moderado y sólo se recurre a algunas frases de gritos cuando están justificadas por la trama del videojuego y es parte del personaje para menores. el videojuego es de tipo aventura y exploración, con gráficas 2d. 
