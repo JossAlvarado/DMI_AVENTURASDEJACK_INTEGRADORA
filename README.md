@@ -3,17 +3,34 @@
 
 
 <div align="Justify">
-  
-![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/0a503e92-aa9e-405a-a581-51c55879beeb)
+
+# ORGANIGRAMA DE LA EMPRESA
+
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/353f5744-b47e-4196-84f6-e2e8421e969f)
 
 &nbsp;
 &nbsp;
-|  Característica |  Información |
-| :------------: | :------------: |
-| Nombre | Proyecto Integradora |
-| APP  | Aventures Jack|
-|  Integrantes | 
-Josseline Alvarado Vargas, Lesly Yareth Bonilla Hernandez, Jose Luis Galindo Picazo|
+
+# INFORMACIÓN DEL PROYECTO
+
+| EMPRESA/ORGANIZACIÓN | UTXJ |
+|----------------------|------|
+|Proyecto           |BOOKFAHS|
+|Fecha de preparación  ||
+|Cliente               |M.T.I MARCO A. R. H|
+|Patrocinador principal | Area TI |
+|Gerente lider del proyecto | Josseline Alvarado |
+|Gerente lider de Analisis | Lesly Yaret Bonilla |
+
+# APROBACIONES
+
+| NOMBRES | CARGO | DEPARTAMENTO | FECHA | FIRMA |
+|--------|-------|-----------------------------|---------------|------------|
+|Josseline Alvarado Vargas| DB Manager | TECNO GAMES |  |             |
+|Jose Luis Galindo Picazo| Documentador | TECNO GAMES |  |             |
+|Lesly Yaret Hernandez Bonilla| Frontend | TECNO GAMES |  |             |
+|Josseline Alvarado Vargas| Backend | TECNO GAMES |  |             |
+
 
 [![Captura-de-pantalla-2023-10-06-124318.png](https://i.postimg.cc/J7vG7F3V/Captura-de-pantalla-2023-10-06-124318.png)](https://postimg.cc/z3wJ00P0)
 
