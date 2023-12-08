@@ -29,14 +29,36 @@ Estas rutas implementan middleware para validar y procesar datos antes de llegar
 
 ## Captura Creacion de un nuevo usuario. 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/9d5f4f1a-b070-4e2e-abe7-414dfc7bd4ab)
+Esta ruta permite la creación de un nuevo usuario en el sistema. Al realizar una solicitud POST a esta ruta con los datos del usuario, el servidor procesará la información y creará un nuevo registro de usuario en la base de datos.
+Parámetros del Cuerpo de la Solicitud (Formato JSON):
+* nombre (cadena) - El nombre completo del usuario.
+* correo (cadena) - La dirección de correo electrónico del usuario.
+* contraseña (cadena) - La contraseña del usuario (se recomienda el uso de métodos seguros para el almacenamiento de contraseñas, como el hash).
 
-
-## Captura Solicitar la Busqueda de un Jugador.
+## Captura Solicitar la Busqueda de un Jugador con ID
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/2e8db758-aee0-4d88-ad46-17ee3e0a08f9)
 
 Esta ruta permite la búsqueda de un usuario específico mediante su identificador único (ID). Al realizar una solicitud GET a esta ruta, se espera que el servidor responda proporcionando los detalles del usuario correspondiente al ID proporcionado.
 Parámetros de Ruta:
 * ID:El identificador único del usuario que se desea buscar.
+
+## Captura Solicitar la Busqueda de un Jugador con EMAIL
+
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/c2aa5f40-bfcc-4956-9685-05421984ca3d)
+Esta ruta permite la búsqueda de un usuario específico mediante su dirección de correo electrónico. Al realizar una solicitud GET a esta ruta con el correo electrónico como parámetro, el servidor buscará y responderá con los detalles del usuario correspondiente al correo proporcionado.
+Parámetros de la Solicitud (en la URL):
+* correo (cadena) - La dirección de correo electrónico del usuario que se desea buscar.
+
+## Captura Solicitar actualizacion de un JUGADOR. 
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/6e9b4604-e470-4824-b229-6c8da421832c)
+Esta ruta permite la actualización de los datos de un jugador existente en el sistema. Al realizar una solicitud PUT a esta ruta con el identificador único del jugador (ID) y los datos actualizados, el servidor procesará la información y actualizará los detalles del jugador en la base de datos.
+
+## Captura Solicitar Eliminacion de un JUGADOR
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/9d6f9c6c-3de6-4996-b85d-238273048ff8)
+Esta ruta permite la eliminación de los datos de un jugador existente en el sistema. Al realizar una solicitud DELETE a esta ruta con el identificador único del jugador (ID), el servidor procesará la información y eliminará el registro del jugador de la base de datos.
+
+Parámetros de la Solicitud (en la URL):
+* id (entero) - El identificador único del jugador que se desea eliminar.
 
 
 ## Capturas de Pantalla de la Actividad
