@@ -60,4 +60,21 @@ Esta ruta permite la eliminación de los datos de un jugador existente en el sis
 Parámetros de la Solicitud (en la URL):
 * id (entero) - El identificador único del jugador que se desea eliminar.
 
+## Captura Base de Datos
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/bcde31a6-4ca5-42dd-a830-b83322ed2335)
+En la siguiente captura se muestra que la conexion con la base de datos ha sido exitosa, se muestra que se imprimen mensajes en la consola, es decir que esta funcionando y los datos se estan registrando dentro de la misma.
+
+ ## Captura Creacion de la Tabla Player 
+ ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/396965cb-ac37-4957-8673-85738cba603b)
+En la siguiente captura se muestra la creacion de la tabla player. 
+
+ ## Captura de la inserccion de Datos
+ ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/00a9fcc0-cf82-4cf9-bb02-fd7794592624)
+
+ La imagen muestra la insercion de datos en la base de datos. 
  
+ ## Captura de la Tabla Games 
+ ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/e3c0d368-554d-4db7-a0d4-874f12aa2a3e)
+ En la captura se muestra que los datos insertados han sido exitosos, pues se muestran en la tabla correspondiente. 
+
+
