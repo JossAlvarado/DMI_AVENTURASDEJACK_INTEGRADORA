@@ -16,7 +16,6 @@
 
 Esta aplicación de videojuego llamada Api Rest es un CRUD que se conectará a la aplicación integrada, pero ¿qué es CRUD? CRUD es la abreviatura de "Crear, Leer, Actualizar y Eliminar", que se utiliza para referirse a las funciones básicas en la base de datos o la capa de persistencia en el software, en pocas palabras, es la abreviatura de la forma de operar el almacenamiento. Información, el objetivo es poder mostrar el progreso o evolución de CRUD, cuya finalidad es poder conectarse a la API de TecnoGames Team. En este nuevo desarrollo se ha implementado una implementación de búsqueda en nuestro CRUD para poder buscar jugadores insertados en la base de datos, y también se ha incorporado la posibilidad de insertar datos de jugadores.
 Modelo reverso de la base de datos
-# Capturas de la Ruta
 
 ## Captura De las Rutas
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/ee72c205-530f-4444-a659-03d623bca5f9)
@@ -26,6 +25,19 @@ La implementación de rutas para realizar operaciones CRUD (Crear, Leer, Actuali
  * GET para la lectura.
  * PUT o PATCH para la actualización.
  * DELETE para la eliminación.
+Estas rutas implementan middleware para validar y procesar datos antes de llegar a las funciones de controlador.
+
+## Captura Peticion de Datos
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/9d5f4f1a-b070-4e2e-abe7-414dfc7bd4ab)
+En la siguiente captura se muestra parte del codigo, el cual se imprime en consola un mensaje que indica una nueva creacion de un nuevo jugador, asi tambien la busqueda de un nuevo jugador. Para realizar esta peticion hicimos uso de Thunder, se especifica el tipó de metodo que se solicitara, asi como la ruta. 
+
+## Captura Solicitar la Busqueda de un Jugador.
+![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/2e8db758-aee0-4d88-ad46-17ee3e0a08f9)
+
+Esta ruta permite la búsqueda de un usuario específico mediante su identificador único (ID). Al realizar una solicitud GET a esta ruta, se espera que el servidor responda proporcionando los detalles del usuario correspondiente al ID proporcionado.
+
+Parámetros de Ruta:
+* ID:El identificador único del usuario que se desea buscar.
 
 
 ## Capturas de Pantalla de la Actividad
