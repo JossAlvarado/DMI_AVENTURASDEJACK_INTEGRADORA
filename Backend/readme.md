@@ -60,8 +60,4 @@ Esta ruta permite la eliminación de los datos de un jugador existente en el sis
 Parámetros de la Solicitud (en la URL):
 * id (entero) - El identificador único del jugador que se desea eliminar.
 
-
-## Capturas de Pantalla de la Actividad
-
-  <img src="./assets/a1.png" width="400" alt="Captura de Pantalla 1">
  
