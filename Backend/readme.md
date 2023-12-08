@@ -27,15 +27,14 @@ La implementación de rutas para realizar operaciones CRUD (Crear, Leer, Actuali
  * DELETE para la eliminación.
 Estas rutas implementan middleware para validar y procesar datos antes de llegar a las funciones de controlador.
 
-## Captura Peticion de Datos
+## Captura Creacion de un nuevo usuario. 
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/9d5f4f1a-b070-4e2e-abe7-414dfc7bd4ab)
-En la siguiente captura se muestra parte del codigo, el cual se imprime en consola un mensaje que indica una nueva creacion de un nuevo jugador, asi tambien la busqueda de un nuevo jugador. Para realizar esta peticion hicimos uso de Thunder, se especifica el tipó de metodo que se solicitara, asi como la ruta. 
+
 
 ## Captura Solicitar la Busqueda de un Jugador.
 ![image](https://github.com/JossAlvarado/DMI_INTEGRADORA_AVENTURASDEJACK/assets/84793967/2e8db758-aee0-4d88-ad46-17ee3e0a08f9)
 
 Esta ruta permite la búsqueda de un usuario específico mediante su identificador único (ID). Al realizar una solicitud GET a esta ruta, se espera que el servidor responda proporcionando los detalles del usuario correspondiente al ID proporcionado.
-
 Parámetros de Ruta:
 * ID:El identificador único del usuario que se desea buscar.
 
